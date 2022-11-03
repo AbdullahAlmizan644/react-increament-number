@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-increament-number/static/css/main.c668d82d.css",
+    "main.js": "/react-increament-number/static/js/main.9b69d80d.js",
+    "index.html": "/react-increament-number/index.html",
+    "main.c668d82d.css.map": "/react-increament-number/static/css/main.c668d82d.css.map",
+    "main.9b69d80d.js.map": "/react-increament-number/static/js/main.9b69d80d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c668d82d.css",
+    "static/js/main.9b69d80d.js"
+  ]
+}
